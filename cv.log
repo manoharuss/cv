@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.3)  11 APR 2022 20:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.3)  11 APR 2022 22:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -409,31 +409,31 @@ Overfull \hbox (1.06325pt too wide) in paragraph at lines 25--36
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 No file cv.bbl.
-<./images//master-thesis-preview.png, id=20, 238.39063pt x 75.28125pt>
+<./images//master-thesis-preview.png, id=21, 238.39063pt x 75.28125pt>
 File: ./images//master-thesis-preview.png Graphic file (type png)
 <use ./images//master-thesis-preview.png>
 Package pdftex.def Info: ./images//master-thesis-preview.png  used on input lin
 e 95.
 (pdftex.def)             Requested size: 238.39003pt x 75.28105pt.
-<./images//orthomosaic-drone.png, id=23, 103.88812pt x 71.26625pt>
+<./images//orthomosaic-drone.png, id=24, 103.88812pt x 71.26625pt>
 File: ./images//orthomosaic-drone.png Graphic file (type png)
 <use ./images//orthomosaic-drone.png>
 Package pdftex.def Info: ./images//orthomosaic-drone.png  used on input line 99
 .
 (pdftex.def)             Requested size: 103.88786pt x 71.26605pt.
-<./images//orthomosaic-flightplan.png, id=24, 161.60374pt x 70.76437pt>
+<./images//orthomosaic-flightplan.png, id=25, 161.60374pt x 70.76437pt>
 File: ./images//orthomosaic-flightplan.png Graphic file (type png)
 <use ./images//orthomosaic-flightplan.png>
 Package pdftex.def Info: ./images//orthomosaic-flightplan.png  used on input li
 ne 99.
 (pdftex.def)             Requested size: 161.60335pt x 70.76419pt.
-<./images//self-driving-truck.png, id=26, 103.38625pt x 84.81688pt>
+<./images//self-driving-truck.png, id=27, 103.38625pt x 84.81688pt>
 File: ./images//self-driving-truck.png Graphic file (type png)
 <use ./images//self-driving-truck.png>
 Package pdftex.def Info: ./images//self-driving-truck.png  used on input line 1
 02.
 (pdftex.def)             Requested size: 103.38599pt x 84.81665pt.
-<./images//weighted-skiz-map.png, id=28, 58.71938pt x 58.2175pt>
+<./images//weighted-skiz-map.png, id=29, 58.71938pt x 58.2175pt>
 File: ./images//weighted-skiz-map.png Graphic file (type png)
 <use ./images//weighted-skiz-map.png>
 Package pdftex.def Info: ./images//weighted-skiz-map.png  used on input line 10
@@ -459,10 +459,10 @@ Here is how much of TeX's memory you used:
 /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb>
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
 usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on cv.pdf (2 pages, 335273 bytes).
+Output written on cv.pdf (2 pages, 335331 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
+ 61 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
